@@ -7,7 +7,7 @@
 <br />
 
 <p align="center">
-  <img alt="Status" src="https://img.shields.io/badge/Status-Ready_to_Run-22c55e?style=flat-square&labelColor=04040c" />
+  <img alt="Status" src="https://img.shields.io/badge/Status-In_Active_Development-118fe8?style=flat-square&labelColor=04040c" />
   <img alt="Platform" src="https://img.shields.io/badge/Platform-macOS-8b5cf6?style=flat-square&labelColor=04040c" />
   <img alt="Runtime" src="https://img.shields.io/badge/Runtime-Python_3-118fe8?style=flat-square&labelColor=04040c" />
   <img alt="Browser" src="https://img.shields.io/badge/Browser-Google_Chrome-f97316?style=flat-square&labelColor=04040c" />
