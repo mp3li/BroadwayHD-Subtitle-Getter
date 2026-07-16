@@ -1,0 +1,29 @@
+{
+  "_note": "To use this file, remove -default from the file name so it becomes settings.json.",
+  "output_dir": "Subtitles",
+  "browser": {
+    "profile_dir": "Browser Session/Chrome Profile",
+    "capture_timeout_seconds": 45,
+    "login_timeout_seconds": 60,
+    "quiet_seconds_after_first_vtt": 3
+  },
+  "subtitle_preferences": {
+    "mode": "all",
+    "preferred_languages": [
+      "en-US",
+      "en-GB",
+      "en"
+    ],
+    "fallback_to_all": true,
+    "save_vtt": false,
+    "save_srt": true
+  },
+  "media_matching": {
+    "enabled": false,
+    "media_roots": [],
+    "save_to_matched_media_folder": true,
+    "rename_matched_folders": false,
+    "match_threshold": 0.88,
+    "scan_subfolders": true
+  }
+}

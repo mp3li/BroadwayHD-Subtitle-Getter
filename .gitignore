@@ -1,0 +1,23 @@
+# macOS Finder metadata
+.DS_Store
+
+# Python bytecode and test/tool caches
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Local BroadwayHD session data. This Chrome profile can contain cookies,
+# saved sign-in state, browser history, and other private browsing data.
+Browser Session/
+
+# Downloaded subtitle output and per-item metadata.
+Subtitles/
+*.srt
+*.vtt
+.broadwayhd-item.json
+
+# User-specific configuration and link lists. Safe templates remain tracked.
+Settings/settings.json
+My Links Txt/mylinks.txt

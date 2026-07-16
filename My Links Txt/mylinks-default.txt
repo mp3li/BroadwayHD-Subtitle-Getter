@@ -1,0 +1,13 @@
+# Copy this file to mylinks.txt before importing links in the app:
+# cp "My Links Txt/mylinks-default.txt" "My Links Txt/mylinks.txt"
+#
+# Put one or more BroadwayHD detail-page links anywhere in this file.
+# Blank lines and text that are not http:// or https:// links are not counted.
+# The links below are intentionally non-real examples; replace them with detail
+# pages for titles you are entitled to access through your own BroadwayHD account.
+
+First example title
+https://example.com/broadwayhd-detail-page-one
+
+Another example title
+https://example.com/broadwayhd-detail-page-two
