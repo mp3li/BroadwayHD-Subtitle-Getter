@@ -67,7 +67,7 @@ Use the tool only with a BroadwayHD account and content you are authorized to ac
 
 ## Requirements
 
-- macOS
+- macOS only for now; Windows and Linux support are coming soon.
 - Python 3
 - Google Chrome installed at `/Applications/Google Chrome.app`
 - A BroadwayHD account with access to the page you want to check
