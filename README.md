@@ -42,7 +42,7 @@
 
 ## About the Project
 
-BroadwayHD Subtitle Getter by mp3li is a local tool for obtaining non-DRM protected .srt files from BroadwayHD videos that the user has lawful access to. This project was strictly made for educatonal and accomodation purposes.
+BroadwayHD Subtitle Getter by mp3li is a local tool for obtaining non-DRM protected .srt files from BroadwayHD videos that the user has lawful access to. This project was strictly made for educational and accommodation purposes.
 
 The project is designed to stay practical: add one or more detail-page links, sign in through your own BroadwayHD account when needed, choose which subtitle languages to save, and receive organized local subtitle files. It can also match a title to an existing media folder when that optional local setting is enabled.
 
