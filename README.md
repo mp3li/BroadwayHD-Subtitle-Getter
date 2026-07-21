@@ -230,9 +230,9 @@ git diff --cached
 
 ## License
 
-Copyright (C) 2026 mp3li.
+Copyright (c) 2026 mp3li. All rights reserved.
 
-This project is licensed under the GNU General Public License, version 3.0. You may use, study, modify, and share it under the terms of that license, provided that redistributed versions preserve the applicable copyright and license notices and remain available under GPLv3. See [LICENSE](LICENSE) for the complete terms.
+This project uses the non-commercial source-available license in [LICENSE](LICENSE). You may use, study, fork, modify, and share it for non-commercial purposes while crediting mp3li and keeping the project's protection boundaries intact. Commercial use requires prior written permission from mp3li.
 
 ## Responsible Use and Accommodation Disclaimer
 
